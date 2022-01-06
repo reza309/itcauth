@@ -1,5 +1,5 @@
 {
-    "name": "itc/itcauth",
+    "name": "it_c/itcauth",
     "description": "This is a laravel package for laravel authentication. This package develop for the IT CORNER. Its created by Shaheen Reza. The package developled using ajax and php jquery, and php version 8, laravel 8",
     "require": {}
 }
